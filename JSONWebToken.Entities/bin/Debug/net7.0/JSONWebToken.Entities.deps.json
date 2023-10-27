@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "JSONWebToken.Entities/1.0.0": {
+        "runtime": {
+          "JSONWebToken.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JSONWebToken.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
